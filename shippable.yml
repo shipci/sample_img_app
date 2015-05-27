@@ -14,7 +14,7 @@ install:
 
 #commit_container: shipci/sample_img_app
 
-#build_image: shippable/minv2
+build_image: shipci/sample_img_app:5.1
 #build_image:
  # name: shippable/minv2
   #net: host
